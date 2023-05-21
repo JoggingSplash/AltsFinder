@@ -1,0 +1,8 @@
+name: AltsFinder
+main: splash\altsfinder\AltsFinder
+version: 0.0.1
+api: 4.0.0
+author: JoggingSplash23
+permissions:
+  alts.command:
+    default: op
